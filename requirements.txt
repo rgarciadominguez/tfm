@@ -54,7 +54,7 @@ sqlparse==0.3.1
 telegram==0.0.1
 tornado==6.0.3
 updater==0.1.24
-urllib3==1.25.6
+urllib3==1.26.5
 virtualenv==20.0.13
 watchdog==0.10.2
 Werkzeug==0.16.0
